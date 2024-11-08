@@ -39,9 +39,11 @@ Create a requirements.txt file listing your dependencies, such as:
 
 **Usage**
 
-*1. Data Preparation: Place your Twitter dataset in the data/ directory.
-*2. Running the Notebook: Open the sentiment_analysis_twitter_dataset.ipynb and follow the steps outlined.
-*3. Model Training: Execute the cells to preprocess data, extract features, train models, and evaluate results.
+1. Data Preparation: Place your Twitter dataset in the data/ directory.
+   
+2. Running the Notebook: Open the sentiment_analysis_twitter_dataset.ipynb and follow the steps outlined.
+   
+3. Model Training: Execute the cells to preprocess data, extract features, train models, and evaluate results.
 
 **Methods and Techniques Used**
 
