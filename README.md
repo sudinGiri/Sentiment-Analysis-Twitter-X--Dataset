@@ -30,12 +30,12 @@ To replicate this project, you will need Python 3.8+ and a set of dependencies, 
 
 Create a requirements.txt file listing your dependencies, such as:
 
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-nltk
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- nltk
 
 **Usage**
 
