@@ -13,7 +13,9 @@ This project focuses on analyzing sentiments from tweets related to a specific t
 **Project Structure**
 
 root/
+
 │
+
 ├── sentiment_analysis_twitter_dataset.ipynb  # Jupyter Notebook containing the analysis
 
 ├── data/                                     # Directory for storing datasets (not included)
@@ -24,14 +26,10 @@ root/
 
 **Installation**
 
-To replicate this project, you will need Python 3.8+ and a set of dependencies, which you can install via:
-
-pip install -r requirements.txt
+To replicate this project, you will need Python 3.8+ and a set of dependencies, which you can install via: pip install -r requirements.txt
 
 Create a requirements.txt file listing your dependencies, such as:
 
-bash
-Copy code
 pandas
 numpy
 scikit-learn
@@ -64,12 +62,26 @@ nltk
         Random Forest Classifier
         Support Vector Machine (SVM)
 
-Evaluation Metrics: Accuracy, Precision, Recall, F1-Score.
-Results
+* **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score.
+  
+**Results**
+
 Achieved an 85% accuracy for sentiment classification using Logistic Regression, which performed competitively against the Random Forest model.
 
-Future Work
+**Future Work**
+
 Explore deep learning approaches such as LSTM and transformers for sentiment analysis.
+
 Integrate more advanced NLP techniques for feature engineering.
-Contributing
+
+**Contributing**
+
 Contributions are welcome! Please create a pull request for any improvements or suggestions.
+
+**Contact :**
+
+For any questions or collaborations, reach out via:
+
+•	Email: rsgis.sudin@gmail.com
+
+•	LinkedIn: https://www.linkedin.com/in/sudin-giri-6814b74a/
