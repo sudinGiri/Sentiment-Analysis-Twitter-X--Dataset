@@ -14,15 +14,13 @@ This project focuses on analyzing sentiments from tweets related to a specific t
 
 root/
 
-│
+├── sentiment_analysis_twitter_dataset.ipynb        # Jupyter Notebook containing the analysis
 
-├── sentiment_analysis_twitter_dataset.ipynb  # Jupyter Notebook containing the analysis
+├── Data/                                           # Directory for storing datasets
 
-├── data/                                     # Directory for storing datasets (not included)
+├── models/                                         # Directory for saving trained models (optional)
 
-├── models/                                   # Directory for saving trained models (optional)
-
-└── README.md                                 # Project documentation
+└── README.md                                       # Project documentation
 
 **Installation**
 
@@ -39,7 +37,7 @@ Create a requirements.txt file listing your dependencies, such as:
 
 **Usage**
 
-1. **Data Preparation:** Place your Twitter dataset in the data/ directory.
+1. **Data Preparation:** Place your Twitter dataset in the Data/ directory.
    
 2. **Running the Notebook:** Open the sentiment_analysis_twitter_dataset.ipynb and follow the steps outlined.
    
